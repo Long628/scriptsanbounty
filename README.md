@@ -1,4 +1,4 @@
-script_key = "ICLzouFxSwvwTbgHzYLXIHkSUCNusZlB"
+script_key = HkSUCNusZlB"
 getgenv().Team = "Pirates"
 getgenv().Setting = { -- Select Weapon, Self Explain
         ["Melee"] = {
